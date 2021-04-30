@@ -14,6 +14,6 @@ git config --global merge.conflictstyle diff3
 
 ## To make sublime default editor
 
-alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
+`alias subl="C:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"`
 
 ## restart git bash to take effect
