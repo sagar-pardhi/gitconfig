@@ -7,7 +7,7 @@ blue="\[\033[0;34m\]"
 purple="\[\033[0;35m\]"
 reset="\[\033[0m\]"
 
-alias subl="C:\Program Files\Sublime Text 3\sublime_text.exe"
+alias subl="C:\Program Files\Sublime Text\sublime_text.exe"
 
 # Change command prompt
 source ~/git-prompt.sh
